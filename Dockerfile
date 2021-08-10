@@ -1,4 +1,4 @@
-git clone https://github.com/nooran/spring-petclinic.git
+git clone https://github.com/noorlan/spring-petclinic.git
 cd spring-petclinic
 FROM Java
 RUN sudo yum install java-1.8.0-openjdk
