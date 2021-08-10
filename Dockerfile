@@ -4,3 +4,6 @@ cd spring-petclinic
 java -jar target/*.jar
 
 #sometimes need to install lates Java with JDK extantion.
+# FROM Java
+# RUN sudo yum install java-1.8.0-openjdk
+# RUN sudo yum install java-1.8.0-openjdk-devel
